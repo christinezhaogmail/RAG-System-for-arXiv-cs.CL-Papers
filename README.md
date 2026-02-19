@@ -1,4 +1,4 @@
-# Week 4 Homework: RAG System for arXiv cs.CL Papers
+# RAG System for arXiv cs.CL Papers
 
 This project implements a Retrieval-Augmented Generation (RAG) system for semantic search over 50 recent arXiv cs.CL (Computation and Language) papers.
 
